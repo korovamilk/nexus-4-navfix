@@ -10,7 +10,8 @@ I have no longer a phone to reproduce or test the issue. All releases after 5.1.
 
 ## Prebuilts ##
 
-1. LMY48T (Android 5.1.1)
+1. LMY48B (Cyanogenmod) (Android 5.1.1)
+2. LMY48T (Android 5.1.1)
 
 See [Releases](https://github.com/mbuc82/nexus-4-navfix/releases) to download `UPDATE.zip`. Verify your build number carefully! Wrong builds will not work.
 
